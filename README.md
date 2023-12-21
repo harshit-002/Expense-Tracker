@@ -42,16 +42,3 @@ The Expense Tracker is a personal finance management tool that helps users track
    - Start a conversation with the Telegram bot.
    - Use commands like `/logExpense`, `/viewExpenses`, and more.
 
-## Configuration
-
-- **MongoDB URI:** Set your MongoDB connection URI in the `config.js` file.
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request for any enhancements or bug fixes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
----
-
